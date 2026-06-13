@@ -1,0 +1,2 @@
+TRUNCATE TABLE book_authors, books, authors
+RESTART IDENTITY CASCADE;
