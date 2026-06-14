@@ -39,7 +39,7 @@ class BookServiceTest {
     }
 
     /**
-     * 単体テスト B-07
+     * 単体テスト B-08
      * 価格が負数（異常）
      */
     @Test
